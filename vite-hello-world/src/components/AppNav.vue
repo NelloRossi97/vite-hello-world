@@ -5,7 +5,7 @@
                 <img src="../assets/logo.svg" alt="">
             </div>
             <div class="list-container">
-                <ul class="navbar-nav flex-direction-row">
+                <ul class="list-unstyled d-flex">
                     <li class="nav-item me-5">
                         <a href="#" class="nav-link">Download</a>
                     </li>
