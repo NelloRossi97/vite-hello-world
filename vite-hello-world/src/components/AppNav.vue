@@ -4,8 +4,8 @@
             <div class="logo-container">
                 <img src="../assets/logo.svg" alt="">
             </div>
-            <div class="list-container flex-direction-row">
-                <ul class="navbar-nav">
+            <div class="list-container">
+                <ul class="navbar-nav flex-direction-row">
                     <li class="nav-item me-5">
                         <a href="#" class="nav-link">Download</a>
                     </li>
