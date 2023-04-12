@@ -5,5 +5,23 @@
 }
 
 section{
-  width: 100vw;
+  background-image: url(./jumbo.png);
+  background-size: cover;
+  background-position: center;
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  color: white;
+}
+
+.nav-style{
+  background-color: #255ee9;
+  color: white;
+}
+
+.nav-link:hover{
+  text-decoration: underline;
 }
